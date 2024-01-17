@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace OscarWeijman\Weight\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WeightCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'weight-conversions';
 
     public $description = 'My command';
 
